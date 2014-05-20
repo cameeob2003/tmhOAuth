@@ -1,9 +1,12 @@
 # tmhOAuth
 
-An OAuth library written in PHP by @themattharris.
+An OAuth library written in PHP by @themattharris. Modified by @hubbertx to support PHP 5.5.X
 
 **Disclaimer**: This project is a work in progress. Please use the issue tracker
 to report any enhancements or issues you encounter.
+
+**Another Disclaimer**: The changes that I have made to this original library are not fully tested. They do work
+at the moment but there is no guarantee across environments.
 
 ## Goals
 
